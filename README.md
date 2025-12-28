@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm studying in Sant Baba Bhag Singh University <br>I'm looking for help with Data Analysis Placements <br>I'm currently learning Data Analysis and ML <br>Ask me about my Projects <br>
+I'm a Data Analysis enthusiast studying at Sant Baba Bhag Singh University.<br>
+Actively preparing for Data Analysis placements and internships.<br>
+Currently learning Data Analysis and Machine Learning.<br>
+Ask me about Data Analysis and Machine Learning projects , Netflix and COVID-19 data analysis projects.
+Fun fact: I can spend hours cleaning data and still enjoy it.
+
+
 
 
 ## 🌐 Socials:
