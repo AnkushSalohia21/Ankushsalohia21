@@ -2,7 +2,7 @@
 I'm a Data Analysis enthusiast studying at Sant Baba Bhag Singh University.<br>
 Actively preparing for Data Analysis placements and internships.<br>
 Currently learning Data Analysis and Machine Learning.<br>
-Ask me about Data Analysis and Machine Learning projects , Netflix and COVID-19 data analysis projects.<br>
+Ask me about Data Analysis and Machine Learning projects , Netflix and COVID-19 data analysis projects , NOVA CHATBOT , MEGAN PC AUTOMATION.<br>
 Fun fact: I can spend hours cleaning data and still enjoy it.<br>
 
 
